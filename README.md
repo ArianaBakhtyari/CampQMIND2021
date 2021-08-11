@@ -2,7 +2,7 @@
 ## Workshop Streams
 | Slot | Coding                                             | Data Science                                       | DT                                         |
 |------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------|
-| 1    | Intro to Python (Ariana)                           | ML / Data Science Tools Review (Adam Farley)       | DT Intro (Matt Wright)                     |
+| 1    | Intro to Python (Nathan)                           | ML / Data Science Tools Review (Adam Farley)       | DT Intro (Matt Wright)                     |
 | 2    | Crash Course on Git / GitHub (Sean Sutherland)     | Feature Engineering (Mimi)                         | Quantum Cryptography (Spencer Hill)        |
 | 3    | Working with Datasets (David Huang)                | Sourcing data, web-scraping, etc. (Adam Farley)    | Grover's Algorithm (Paul Santilli)         |
 | 4    | Working / Communicating in a Team (Ariana)         | Working / Communicating in a Team (Ariana)         | Working / Communicating in a Team (Ariana) |
