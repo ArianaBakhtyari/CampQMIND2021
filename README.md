@@ -1,4 +1,13 @@
 # Camp QMIND 2021
+
+## Install Dependencies
+To install all the needed packages run the below command in the root of this repo in your environment:
+```
+conda install --file requirements.txt
+```
+**For workshop leads:** please add the packages needed to run your notebook and test to make sure it works.
+
+
 ## Workshop Streams
 | Slot | Coding                                             | Data Science                                       | DT                                         |
 |------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------|
