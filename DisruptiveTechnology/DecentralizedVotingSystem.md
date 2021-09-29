@@ -1,4 +1,4 @@
-# Decentralized Auction
+# Decentralized Voting System
 
 For this workshop, we will walk you through how to create a blockchain-based voting system by leveraging smart contracts.
 
