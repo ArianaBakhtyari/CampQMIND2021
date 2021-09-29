@@ -7,7 +7,9 @@ For this workshop, we will walk you through how to create a blockchain-based auc
 
 1. Copy the link below:
 ```
-https://gist.github.com/BhavanS99/7b95e7620726c9771f8bf8da612088d8
+
+PASTE HERE
+
 ```
 
 2. Go to the site linked below:
