@@ -7,9 +7,7 @@ For this workshop, we will walk you through how to create a blockchain-based auc
 
 1. Copy the link below:
 ```
-
 https://github.com/mustafa-tariqk/qmind-workshop/blob/main/Auction.sol
-
 ```
 
 2. Go to the site linked below:
