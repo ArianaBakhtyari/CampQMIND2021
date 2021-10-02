@@ -23,3 +23,11 @@ https://remix.ethereum.org/
 6. Cick that `github` folder, then click `mustafa-tariqk`, and then open `Auction.sol`.
 
 7. And you are done! We will be going through how to fill this file in in the workshop.
+
+## Solutions
+1. Copy the link below:
+```
+https://github.com/mustafa-tariqk/qmind-workshop/blob/main/Complete.sol
+```
+
+2. Continue from step 2 above!

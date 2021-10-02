@@ -23,3 +23,13 @@ https://remix.ethereum.org/
 6. In the workspace directory in the column on the left, you should now see a new folder that looks like a bunch of gibberish - that means you did it! Cick that folder, then click `contracts`, and then open `Voting_Empty.sol`.
 
 7. And you are done! We will be going through how to fill this file in in the workshop.
+
+
+## Solutions
+
+1. Copy the link below:
+```
+https://gist.github.com/BhavanS99/815efa427c89104be09ae074a433c9e0
+```
+
+2. Continue from step 2 above!
