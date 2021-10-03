@@ -1,0 +1,29 @@
+# Blockchain Hackathon
+
+For this hackathon, we will ask you to fill in some template code to create  blockchain-based crowdfunding application by leveraging smart contracts
+
+## How to get the solution:
+
+1. Copy the link below:
+```
+https://github.com/openberry-ac/crowdfunding/blob/master/contracts/Crowdfunding.sol
+
+```
+
+2. Go to the site linked below:
+
+https://remix.ethereum.org/
+
+3. You should be in the Remix editor with a general home tab welcoming you in the middle, a directory in the left column and some sort of terminal in the bottom. Below the `Featured Plugins` and `File` sections, you will see a row of buttons under `Load From` that say `Gist`, `GitHub`, and more. Click the `GitHub` option.
+
+4. Paste the link you copied in part 1 into the window that popped up.
+
+5. Click `OK`.
+
+6. Cick that `github` folder, then keep clicking to fin the `Crowdfunding.sol` file. This is the completed version.
+
+
+For more information on the project and instructions on how to build a UI, you can checkout this link:
+
+https://medium.com/openberry/creating-a-simple-crowdfunding-dapp-with-ethereum-solidity-and-vue-js-69ddb8e132dd
+
